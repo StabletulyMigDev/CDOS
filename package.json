@@ -1,0 +1,26 @@
+{
+  "name": "cdos",
+  "version": "0.0.1",
+  "description": "Compact Disk Operating System for PWED Devices",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CDOS",
+    "PWED",
+    "Disk",
+    "OS",
+    "Operating",
+    "System",
+    "Tools",
+    "Typecript",
+    "System"
+  ],
+  "author": "Miguel Vicente",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "sass": "^1.77.8",
+    "typescript": "^5.5.4"
+  }
+}
